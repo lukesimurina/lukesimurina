@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lukesimurina
+- 👀 I’m interested in: Front end website development, python
+- 🌱 I’m currently learning: Python, JS, HTML, CSS
