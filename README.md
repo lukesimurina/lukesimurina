@@ -1,1 +1,1 @@
-Learning web dev and python atm
+python, java, html, css, django, js
